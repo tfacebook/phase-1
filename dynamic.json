@@ -1,0 +1,43 @@
+{
+	"profile":{
+		"image":"picture.jpg",
+		"name":"jyothi",
+		"roll":"1232",
+				"place":"vinukonda",
+		"email":"selsyjyo2000@gamil.com"
+	},
+	"career":{
+"info":"i want to seek a job in reputed company to explore my taughts for the benefits of your company"
+		},
+		"education":[
+			{
+				"degree":"b.tech",
+				"institute":"vignan",
+				"per":"80%",
+				"yop":"2021"
+		},
+		{
+			"degree":"intermediate",
+				"institute":"vasavi",
+				"per":"95%",
+				"yop":"2017"
+		},
+		{
+		"degree":"ssc",
+				"institute":"githams",
+				"per":"77%",
+				"yop":"2015"	
+		}
+		],
+		"languages":[
+{
+	"info":"english"
+},
+{
+	"info":"telugu"
+},
+{
+	"info":"hindi"
+}
+		]
+}
